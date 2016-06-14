@@ -136,6 +136,7 @@ background-position:-167px -36px;
 .details {
     float: left;
 	padding-top: 3px;
+    font-size: 16px;
 }
 .headr-right {
   float: left;
@@ -155,10 +156,10 @@ background-position:-167px -36px;
 .details ul li a{
 	color:#fff;	
 	text-decoration:none;
-	font-size:0.9em;
+	/*font-size:0.9em;*/
 }
 .details ul li a:hover{
-	color:#61d833;
+	color:#FFF;
 }
 .glyphicon-earphone:before,.glyphicon-envelope:before  {
   font-size:13px;
