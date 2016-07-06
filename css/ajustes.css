@@ -6,3 +6,12 @@
 .carousel-caption h2{
     font-size: 40px;
 }
+.process-list p{
+    margin: 5px;
+}
+.process-list i{
+    color: #61D833;
+}
+.process-list{
+    margin-top: 10px;
+}
